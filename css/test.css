@@ -1,0 +1,49 @@
+.container{
+	position: relative;
+    text-align: center;
+}
+.center {
+	position: absolute;
+	left: 35%;
+  top: 57%;
+    color: #A45E40;
+}
+
+.half{
+	margin-left: 180px;
+}
+.box1:hover{
+	border: 5px solid black;
+}
+.box2:hover{
+  border: 5px solid black;
+}
+.box1{
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 5px;
+padding-bottom: 10px;
+	display: inline-block;
+	width: 350px;
+  height: 260px;
+  margin: 2px;
+  margin-bottom: 5px;
+  border: 5px solid #e6ffe6;
+  text-align: justify;
+  background-color: #e6ffe6;
+}
+.box2{
+
+  padding-left: 50px;
+padding-right: 50px;
+padding-top: 5px;
+padding-bottom: 10px;
+  display: inline-block;
+  width: 350px;
+  height: 260px;
+  margin: 2px;
+  margin-bottom: 5px;
+  border: 5px solid #99ff99;
+  text-align: justify;
+  background-color: #99ff99;
+}
